@@ -28,3 +28,7 @@ if st.button("Analyse"):
         st.success(entities)
     else:
         st.warning("Please enter a URL or a paragraph.")
+
+
+
+        
